@@ -1,74 +1,160 @@
-# Hi there 👋 I'm Pramesh!
+# Hey there! 👋 I'm Pramesh
 
-### 🚀 About Me
-- 🧑‍💻 Full Stack Developer | Passionate about creating efficient, scalable web applications
-- 🎓 Informatics Institute of Technology Student
-- 🌍 Aspiring to be the Best Software Engineer in the World!
-- 🌱 Currently deepening my skills in backend development with **Spring Boot** and exploring **DevOps** tools
-
-### 🛠️ Tech Stack
-
-    @Getter
-    @Setter
-    public class Pramesh {
-    private String[] code = {"Java", "Javascript", "Typescript", "HTML", "CSS", "Python"};
-    private String[] tools = {"Redux", "Node", "Styled-Components", "Docker", "Postman"};
-    private String[] frameworks = {"React", "Spring Boot", "Flask", "Vue.js", "Next.js"};
-    private String[] architecture = {"microservices", "event-driven", "design system pattern"};
-    private String[] interests = {"IOT", "Machine learning", "Deep learning"};
-
-    public static void main(String[] args) {
-        Pramesh pramesh = new Pramesh();
-        System.out.println("🔭 Code: " + Arrays.toString(pramesh.getCode()));
-        System.out.println("🌱 Tools: " + Arrays.toString(pramesh.getTools()));
-        System.out.println("👯 Frameworks: " + Arrays.toString(pramesh.getFrameworks()));
-        System.out.println("📫 Architecture: " + Arrays.toString(pramesh.getArchitecture()));
-        System.out.println("🚀 Interests: " + Arrays.toString(pramesh.getInterests()));
-    }
-    }
-
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![HookState](https://img.shields.io/badge/-HookState-FF8C00?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat&logo=express)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-#### DevOps & Deployment
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-#### Tools & Others
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RVKPP-Lakmina&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RVKPP-Lakmina&layout=compact&theme=radical)
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/rvkp-priyashan-lakmina/)
+<div align="center">
+  
+  ### 🚀 Full Stack Developer | AWS Solution Architect | Tech Enthusiast
+  
+  *Building scalable solutions that bridge innovation with impact*
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvkp-priyashan-lakmina/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RVKPP-Lakmina)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=RVKPP-Lakmina&color=blueviolet&style=flat-square)
+  
+</div>
 
 ---
 
-This `README.md` showcases my technical skills, current projects, and professional background. Let's connect and collaborate!
+## 🎯 About Me
+
+```typescript
+const pramesh = {
+  title: "Full Stack Developer & AWS Solution Architect",
+  education: "Informatics Institute of Technology",
+  mission: "Aspiring to be the Best Software Engineer in the World! 🌍",
+  currentFocus: ["Backend Development", "Cloud Architecture", "DevOps"],
+  philosophy: "Clean code, scalable architecture, continuous learning"
+};
+```
+
+- 🔭 Currently architecting cloud solutions with **AWS**
+- 🌱 Deepening expertise in **microservices** and **cloud-native** development
+- 💡 Passionate about creating efficient, scalable applications
+- 🎯 Always exploring cutting-edge technologies and best practices
+
+---
+
+## 🛠️ Tech Arsenal
+
+### **Languages & Core Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,cs,html,css" />
+</p>
+
+### **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,mui" />
+</p>
+
+**Advanced Stack:**
+- ⚛️ React with Hooks, Context API & Redux
+- 🔄 Next.js for SSR/SSG applications  
+- 🎨 Tailwind CSS & Material-UI for modern designs
+- 📱 Responsive web design principles
+
+### **Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,flask" />
+</p>
+
+**Enterprise Solutions:**
+- ☕ **Spring Boot** - RESTful APIs & Microservices
+- 🔷 **.NET Core** - Enterprise applications
+- 🐘 **PHP** - Web development & APIs
+- 🚀 **Node.js/Express** - Scalable backend services
+
+### **Cloud & Infrastructure**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
+</p>
+
+**AWS Expertise:**
+- ☁️ **AWS Solution Architecture** - Design & Implementation
+- 🐳 **Docker & Containerization** 
+- 🔄 **CI/CD Pipelines** with GitHub Actions
+- 🛡️ Infrastructure as Code & Security Best Practices
+
+### **Databases & Storage**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+</p>
+
+- 🗃️ **Oracle Database** - Enterprise-grade solutions
+- 📊 Database design, optimization & migration
+- 🔍 Complex query optimization & performance tuning
+
+### **Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,github,swagger" />
+</p>
+
+---
+
+## 🏗️ Architecture & Patterns
+
+```java
+@Component
+public class TechPhilosophy {
+    
+    private final String[] architectures = {
+        "Microservices", "Event-Driven", "Serverless",
+        "Clean Architecture", "Domain-Driven Design"
+    };
+    
+    private final String[] interests = {
+        "IoT Solutions", "Machine Learning", 
+        "Deep Learning", "Cloud Computing"
+    };
+    
+    @PostConstruct
+    public void init() {
+        System.out.println("🏗️  Architecture: " + Arrays.toString(architectures));
+        System.out.println("🔬 Interests: " + Arrays.toString(interests));
+        System.out.println("💡 Focus: Building tomorrow's solutions today!");
+    }
+}
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RVKPP-Lakmina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RVKPP-Lakmina&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=RVKPP-Lakmina&theme=tokyonight)
+  
+</div>
+
+---
+
+## 🎯 Current Focus Areas
+
+- 🏗️ **AWS Solution Architecture** - Designing scalable cloud infrastructures
+- 🔄 **Microservices Design** - Building distributed systems
+- 🚀 **Performance Optimization** - Database and application tuning
+- 🛡️ **Security Best Practices** - Secure coding and infrastructure
+- 📱 **Modern Frontend** - Progressive web applications
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always excited to discuss innovative projects, share knowledge, and collaborate on meaningful solutions. Whether you're looking to build scalable applications, migrate to the cloud, or explore new technologies - let's connect!
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvkp-priyashan-lakmina/)
+  [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  
+  ---
+  
+  *"Code is poetry written in logic, and every solution tells a story."*
+  
+</div>
