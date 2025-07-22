@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### 🚀 Full Stack Developer | AWS Solution Architect | Tech Enthusiast
+  ### 🚀 Full Stack Developer | AWS Solution Architect | Freelance Developer
   
   *Building scalable solutions that bridge innovation with impact*
   
@@ -13,6 +13,16 @@
   
 </div>
 
+## 💼 Freelance Services
+
+Available for exciting projects in:
+- 🏗️ **Full-Stack Web Development** - End-to-end application development
+- ☁️ **AWS Cloud Solutions** - Architecture design & implementation
+- 🔧 **API Development** - RESTful services with Spring Boot, Nest.js, .NET
+- 📱 **Modern Frontend** - React, Next.js, Vue.js applications
+- 🗃️ **Database Design** - Oracle, PostgreSQL, MongoDB optimization
+- 🚀 **DevOps & Deployment** - CI/CD pipelines and cloud infrastructure
+
 ---
 
 ## 🎯 About Me
@@ -20,6 +30,7 @@
 ```typescript
 const pramesh = {
   title: "Full Stack Developer & AWS Solution Architect",
+  workStyle: "Freelance Developer | Open to Opportunities",
   education: "Informatics Institute of Technology",
   mission: "Aspiring to be the Best Software Engineer in the World! 🌍",
   currentFocus: ["Backend Development", "Cloud Architecture", "DevOps"],
@@ -29,6 +40,7 @@ const pramesh = {
 
 - 🔭 Currently architecting cloud solutions with **AWS**
 - 🌱 Deepening expertise in **microservices** and **cloud-native** development
+- 💼 **Freelance Developer** - Available for exciting projects & collaborations
 - 💡 Passionate about creating efficient, scalable applications
 - 🎯 Always exploring cutting-edge technologies and best practices
 
@@ -60,6 +72,7 @@ const pramesh = {
 **Enterprise Solutions:**
 - ☕ **Spring Boot** - RESTful APIs & Microservices
 - 🔷 **.NET Core** - Enterprise applications
+- 🚀 **Nest.js** - Scalable Node.js applications
 - 🐘 **PHP** - Web development & APIs
 - 🚀 **Node.js/Express** - Scalable backend services
 
@@ -146,15 +159,17 @@ public class TechPhilosophy {
 
 ## 🤝 Let's Connect & Collaborate
 
-I'm always excited to discuss innovative projects, share knowledge, and collaborate on meaningful solutions. Whether you're looking to build scalable applications, migrate to the cloud, or explore new technologies - let's connect!
+I'm available for **freelance projects** and always excited to discuss innovative solutions! Whether you need a full-stack application, cloud migration, API development, or technical consulting - let's bring your ideas to life.
 
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rvkp-priyashan-lakmina/)
-  [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![Email](https://img.shields.io/badge/Email-Available%20for%20Projects-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvkpplakmina2000@gmail.com)
   
   ---
   
   *"Code is poetry written in logic, and every solution tells a story."*
+  
+  **🚀 Open for Freelance Opportunities | Let's Build Something Amazing Together!**
   
 </div>
